@@ -1,0 +1,33 @@
+_repo: When-we-were-very-young_70271
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Milne, A. A. (Alan Alexander)
+    aliases:
+    - Milne, Alan Alexander
+    - Miln, Alen Aleksander
+    birthdate: 1882
+    deathdate: 1956
+    gutenberg_agent_id: '730'
+    url: http://www.gutenberg.org/2009/agents/730
+    wikipedia: https://en.wikipedia.org/wiki/A._A._Milne
+description: ''
+gutenberg_issued: '2023-03-12'
+identifiers:
+  gutenberg: '70271'
+language: en
+pgterms:marc904: https://archive.org/details/in.ernet.dli.2015.74113
+pgterms:marc905: 20200106105834milne
+pgterms:marc906: '1924'
+pgterms:marc907: US
+production_note: deaurider, David Wilson and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aUnited States :$bE. P. Dutton Company, $c1924, pubdate 1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: When we were very young
+url: http://www.gutenberg.org/ebooks/70271
