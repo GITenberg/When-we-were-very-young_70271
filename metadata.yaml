@@ -1,5 +1,8 @@
 _repo: When-we-were-very-young_70271
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70271-h/images/cover.jpg
 creator:
   author:
     agent_name: Milne, A. A. (Alan Alexander)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/730
     wikipedia: https://en.wikipedia.org/wiki/A._A._Milne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70271#When-we-were-very-young
 gutenberg_issued: '2023-03-12'
 identifiers:
   gutenberg: '70271'
